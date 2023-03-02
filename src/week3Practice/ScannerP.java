@@ -15,11 +15,12 @@ public class ScannerP {
 		if(month==1 || month==2 || month==3) {
 			System.out.println("Spring");
 		}else if(month==4 || month==5 || month==6) {
-			System.out.println("Summer");
+			System.out.println("Sssss");
 		}else if(month==7 || month==8 || month==9) {
-			System.out.println("fall");
+			System.out.println("fff");
 		}else if(month==10 || month==11 || month==12) {
-			System.out.println("winter");
+			System.out.println("wwww");
+			System.out.println("I like this season");
 		}
 		String gender="male";
 		switch(gender) {
